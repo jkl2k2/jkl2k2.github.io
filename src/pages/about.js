@@ -1,4 +1,4 @@
-import React from "react"
+import React from "react";
 
 export default function About() {
     return (
@@ -7,8 +7,10 @@ export default function About() {
                 <a href="/"><b>Home</b></a>
                 <a href="/about/"><b>About</b></a>
             </div>
-            <h1>I made this using Gatsby in like 3 hours</h1>
-            <h2><a href="https://github.com/jkl2k2">https://github.com/jkl2k2</a></h2>
+            <h2>I'm mostly using this site as a way to learn HTML and CSS</h2>
+            <div style={{ padding: 30 }}>
+                <img src="https://cdn.discordapp.com/attachments/785080637144956938/823707286156476477/alien.png" alt="" />
+            </div>
         </div>
     )
 }
