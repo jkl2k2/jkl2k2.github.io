@@ -1,4 +1,4 @@
-import React from "react"
+import React from "react";
 // import { Link } from "gatsby"
 
 export default function Home() {
@@ -8,9 +8,8 @@ export default function Home() {
         <a href="/"><b>Home</b></a>
         <a href="/about/"><b>About</b></a>
       </div>
-      <div style={{ padding: 30 }}>
-        <img src="https://cdn.discordapp.com/attachments/785080637144956938/823707286156476477/alien.png" alt="" />
-      </div>
+      <h2>I have some open-source projects on GitHub</h2>
+      <h2><a href="https://github.com/jkl2k2">My GitHub profile</a></h2>
     </div>
   )
 }
