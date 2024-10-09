@@ -1,8 +1,8 @@
 {
-  "name": "jkl2k2.github.io",
+  "name": "site",
   "version": "0.1.0",
-  "homepage": "https://jkl2k2.github.io/jkl2k2.github.io",
-  "private": true,
+  "homepage": "https://jkl2k2.github.io/site",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -10,6 +10,7 @@
     "next": "^14.2.15",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
