@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jkl2k2.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/jkl2k2.github.io/static/js/main.50b25008.js",
+    "static/js/453.20f19d23.chunk.js": "/jkl2k2.github.io/static/js/453.20f19d23.chunk.js",
+    "static/media/logo.svg": "/jkl2k2.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jkl2k2.github.io/index.html",
+    "main.f855e6bc.css.map": "/jkl2k2.github.io/static/css/main.f855e6bc.css.map",
+    "main.50b25008.js.map": "/jkl2k2.github.io/static/js/main.50b25008.js.map",
+    "453.20f19d23.chunk.js.map": "/jkl2k2.github.io/static/js/453.20f19d23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.50b25008.js"
+  ]
+}
