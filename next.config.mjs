@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     output: 'export', // Outputs a Single-Page Application (SPA).
-    distDir: './dist', // Changes the build output directory to `./dist/`.
+    distDir: './build', // Directory for Next.js build output.
 }
 
 export default nextConfig
