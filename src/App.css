@@ -29,5 +29,9 @@ p {
 }
 
 :root {
-  --animate-delay: 0.5s;
+  --animate-delay: 0.25s;
+}
+
+#lenny_img {
+  width: 200px;
 }
